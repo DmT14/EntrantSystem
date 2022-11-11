@@ -1,0 +1,230 @@
+C:\Users\user\Desktop\EntrantSystem\bin\Debug\EntrantSystem.exe.config
+C:\Users\user\Desktop\EntrantSystem\bin\Debug\EntrantSystem.exe
+C:\Users\user\Desktop\EntrantSystem\bin\Debug\EntrantSystem.pdb
+C:\Users\user\Desktop\EntrantSystem\obj\Debug\EntrantSystem.csprojAssemblyReference.cache
+C:\Users\user\Desktop\EntrantSystem\obj\Debug\EntrantSystem.AuthForm.resources
+C:\Users\user\Desktop\EntrantSystem\obj\Debug\EntrantSystem.MainForm.resources
+C:\Users\user\Desktop\EntrantSystem\obj\Debug\EntrantSystem.Properties.Resources.resources
+C:\Users\user\Desktop\EntrantSystem\obj\Debug\EntrantSystem.csproj.GenerateResource.cache
+C:\Users\user\Desktop\EntrantSystem\obj\Debug\EntrantSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\EntrantSystem\obj\Debug\EntrantSystem.exe
+C:\Users\user\Desktop\EntrantSystem\obj\Debug\EntrantSystem.pdb
+C:\Users\user\Desktop\EntrantSystem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\EntrantSystem\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\EntrantSystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\Desktop\EntrantSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Desktop\EntrantSystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\Desktop\EntrantSystem\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\EntrantSystem\bin\Debug\Renci.SshNet.dll
+C:\Users\user\Desktop\EntrantSystem\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\EntrantSystem\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\EntrantSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\EntrantSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\EntrantSystem\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\user\Desktop\EntrantSystem\bin\Debug\Zstandard.Net.dll
+C:\Users\user\Desktop\EntrantSystem\bin\Debug\Google.Protobuf.xml
+C:\Users\user\Desktop\EntrantSystem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\user\Desktop\EntrantSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\user\Desktop\EntrantSystem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\user\Desktop\EntrantSystem\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\EntrantSystem\bin\Debug\Renci.SshNet.xml
+C:\Users\user\Desktop\EntrantSystem\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\EntrantSystem\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\EntrantSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\EntrantSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\EntrantSystem\obj\Debug\EntrantSystem.csproj.CopyComplete
+C:\Users\user\Desktop\EntrantSystem\obj\Debug\EntrantSystem.AddingEntrant.resources
+C:\Users\user\Desktop\EntrantSystem\obj\Debug\EntrantSystem.AddingWorker.resources
+C:\Users\user\Desktop\EntrantSystem\obj\Debug\EntrantSystem.AddingScores.resources
+C:\Users\user\Desktop\EntrantSystem\obj\Debug\EntrantSystem.AddingSpeciality.resources
+C:\Users\user\Desktop\EntrantSystem\obj\Debug\EntrantSystem.ChangingWorker.resources
+C:\Users\user\Desktop\EntrantSystem\obj\Debug\EntrantSystem.ChangingEntrant.resources
+C:\Users\user\Desktop\EntrantSystem\obj\Debug\EntrantSystem.ChangingScores.resources
+C:\Users\user\Desktop\EntrantSystem\obj\Debug\EntrantSystem.ChangingSpeciality.resources
+C:\Users\user\Desktop\EntrantSystem\obj\Debug\EntrantSystem.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\EntrantSystem\obj\Debug\EntrantSystem.ChangingWorkerData.resources
+C:\Users\user\Desktop\EntrantSystem\obj\Debug\EntrantSystem.ChangingEntrantData.resources
+C:\Users\Д\OneDrive\EntrantSystem\bin\Debug\EntrantSystem.exe.config
+C:\Users\Д\OneDrive\EntrantSystem\bin\Debug\EntrantSystem.exe
+C:\Users\Д\OneDrive\EntrantSystem\bin\Debug\EntrantSystem.pdb
+C:\Users\Д\OneDrive\EntrantSystem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Д\OneDrive\EntrantSystem\bin\Debug\Google.Protobuf.dll
+C:\Users\Д\OneDrive\EntrantSystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Д\OneDrive\EntrantSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Д\OneDrive\EntrantSystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Д\OneDrive\EntrantSystem\bin\Debug\MySql.Data.dll
+C:\Users\Д\OneDrive\EntrantSystem\bin\Debug\Renci.SshNet.dll
+C:\Users\Д\OneDrive\EntrantSystem\bin\Debug\System.Buffers.dll
+C:\Users\Д\OneDrive\EntrantSystem\bin\Debug\System.Memory.dll
+C:\Users\Д\OneDrive\EntrantSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Д\OneDrive\EntrantSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Д\OneDrive\EntrantSystem\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Д\OneDrive\EntrantSystem\bin\Debug\Zstandard.Net.dll
+C:\Users\Д\OneDrive\EntrantSystem\bin\Debug\Google.Protobuf.xml
+C:\Users\Д\OneDrive\EntrantSystem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Д\OneDrive\EntrantSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Д\OneDrive\EntrantSystem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Д\OneDrive\EntrantSystem\bin\Debug\MySql.Data.xml
+C:\Users\Д\OneDrive\EntrantSystem\bin\Debug\Renci.SshNet.xml
+C:\Users\Д\OneDrive\EntrantSystem\bin\Debug\System.Buffers.xml
+C:\Users\Д\OneDrive\EntrantSystem\bin\Debug\System.Memory.xml
+C:\Users\Д\OneDrive\EntrantSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Д\OneDrive\EntrantSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Д\OneDrive\EntrantSystem\obj\Debug\EntrantSystem.csprojAssemblyReference.cache
+C:\Users\Д\OneDrive\EntrantSystem\obj\Debug\EntrantSystem.csproj.ResolveComReference.cache
+C:\Users\Д\OneDrive\EntrantSystem\obj\Debug\EntrantSystem.AddingEntrant.resources
+C:\Users\Д\OneDrive\EntrantSystem\obj\Debug\EntrantSystem.AddingScores.resources
+C:\Users\Д\OneDrive\EntrantSystem\obj\Debug\EntrantSystem.AddingSpeciality.resources
+C:\Users\Д\OneDrive\EntrantSystem\obj\Debug\EntrantSystem.AddingWorker.resources
+C:\Users\Д\OneDrive\EntrantSystem\obj\Debug\EntrantSystem.AuthForm.resources
+C:\Users\Д\OneDrive\EntrantSystem\obj\Debug\EntrantSystem.ChangingEntrant.resources
+C:\Users\Д\OneDrive\EntrantSystem\obj\Debug\EntrantSystem.ChangingEntrantData.resources
+C:\Users\Д\OneDrive\EntrantSystem\obj\Debug\EntrantSystem.ChangingScores.resources
+C:\Users\Д\OneDrive\EntrantSystem\obj\Debug\EntrantSystem.ChangingSpeciality.resources
+C:\Users\Д\OneDrive\EntrantSystem\obj\Debug\EntrantSystem.ChangingWorker.resources
+C:\Users\Д\OneDrive\EntrantSystem\obj\Debug\EntrantSystem.ChangingWorkerData.resources
+C:\Users\Д\OneDrive\EntrantSystem\obj\Debug\EntrantSystem.MainForm.resources
+C:\Users\Д\OneDrive\EntrantSystem\obj\Debug\EntrantSystem.Properties.Resources.resources
+C:\Users\Д\OneDrive\EntrantSystem\obj\Debug\EntrantSystem.csproj.GenerateResource.cache
+C:\Users\Д\OneDrive\EntrantSystem\obj\Debug\EntrantSystem.csproj.CoreCompileInputs.cache
+C:\Users\Д\OneDrive\EntrantSystem\obj\Debug\EntrantSystem.csproj.CopyComplete
+C:\Users\Д\OneDrive\EntrantSystem\obj\Debug\EntrantSystem.exe
+C:\Users\Д\OneDrive\EntrantSystem\obj\Debug\EntrantSystem.pdb
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\bin\Debug\EntrantSystem.exe.config
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\bin\Debug\EntrantSystem.exe
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\bin\Debug\EntrantSystem.pdb
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\bin\Debug\Google.Protobuf.dll
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\bin\Debug\MySql.Data.dll
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\bin\Debug\Renci.SshNet.dll
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\bin\Debug\System.Buffers.dll
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\bin\Debug\System.Memory.dll
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\bin\Debug\Zstandard.Net.dll
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\bin\Debug\Google.Protobuf.xml
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\bin\Debug\MySql.Data.xml
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\bin\Debug\Renci.SshNet.xml
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\bin\Debug\System.Buffers.xml
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\bin\Debug\System.Memory.xml
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\obj\Debug\EntrantSystem.csproj.AssemblyReference.cache
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\obj\Debug\EntrantSystem.csproj.ResolveComReference.cache
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\obj\Debug\EntrantSystem.AddingEntrant.resources
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\obj\Debug\EntrantSystem.AddingScores.resources
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\obj\Debug\EntrantSystem.AddingSpeciality.resources
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\obj\Debug\EntrantSystem.AddingWorker.resources
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\obj\Debug\EntrantSystem.AuthForm.resources
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\obj\Debug\EntrantSystem.ChangingEntrant.resources
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\obj\Debug\EntrantSystem.ChangingEntrantData.resources
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\obj\Debug\EntrantSystem.ChangingScores.resources
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\obj\Debug\EntrantSystem.ChangingSpeciality.resources
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\obj\Debug\EntrantSystem.ChangingWorker.resources
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\obj\Debug\EntrantSystem.ChangingWorkerData.resources
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\obj\Debug\EntrantSystem.MainForm.resources
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\obj\Debug\EntrantSystem.Properties.Resources.resources
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\obj\Debug\EntrantSystem.csproj.GenerateResource.cache
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\obj\Debug\EntrantSystem.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\obj\Debug\EntrantSystem.csproj.CopyComplete
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\obj\Debug\EntrantSystem.exe
+C:\Users\Dmitry\OneDrive\Прочее\Программирование\C# + MySQL\EntrantSystem\obj\Debug\EntrantSystem.pdb
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\bin\Debug\EntrantSystem.exe.config
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\bin\Debug\EntrantSystem.exe
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\bin\Debug\EntrantSystem.pdb
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\bin\Debug\Google.Protobuf.dll
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\bin\Debug\MySql.Data.dll
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\bin\Debug\Renci.SshNet.dll
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\bin\Debug\System.Buffers.dll
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\bin\Debug\System.Memory.dll
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\bin\Debug\Zstandard.Net.dll
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\bin\Debug\Google.Protobuf.xml
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\bin\Debug\MySql.Data.xml
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\bin\Debug\Renci.SshNet.xml
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\bin\Debug\System.Buffers.xml
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\bin\Debug\System.Memory.xml
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\obj\Debug\EntrantSystem.csproj.AssemblyReference.cache
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\obj\Debug\EntrantSystem.csproj.ResolveComReference.cache
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\obj\Debug\EntrantSystem.AddingEntrant.resources
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\obj\Debug\EntrantSystem.AddingScores.resources
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\obj\Debug\EntrantSystem.AddingSpeciality.resources
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\obj\Debug\EntrantSystem.AddingWorker.resources
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\obj\Debug\EntrantSystem.AuthForm.resources
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\obj\Debug\EntrantSystem.ChangingEntrant.resources
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\obj\Debug\EntrantSystem.ChangingEntrantData.resources
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\obj\Debug\EntrantSystem.ChangingScores.resources
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\obj\Debug\EntrantSystem.ChangingSpeciality.resources
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\obj\Debug\EntrantSystem.ChangingWorker.resources
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\obj\Debug\EntrantSystem.ChangingWorkerData.resources
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\obj\Debug\EntrantSystem.MainForm.resources
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\obj\Debug\EntrantSystem.Properties.Resources.resources
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\obj\Debug\EntrantSystem.csproj.GenerateResource.cache
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\obj\Debug\EntrantSystem.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\obj\Debug\EntrantSystem.csproj.CopyComplete
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\obj\Debug\EntrantSystem.exe
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\7 СЕМЕСТР\РПОКИС (КР)\EntrantSystem\obj\Debug\EntrantSystem.pdb
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\bin\Debug\EntrantSystem.exe.config
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\bin\Debug\EntrantSystem.exe
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\bin\Debug\EntrantSystem.pdb
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\bin\Debug\Google.Protobuf.dll
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\bin\Debug\MySql.Data.dll
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\bin\Debug\Renci.SshNet.dll
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\bin\Debug\System.Buffers.dll
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\bin\Debug\System.Memory.dll
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\bin\Debug\Zstandard.Net.dll
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\bin\Debug\Google.Protobuf.xml
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\bin\Debug\MySql.Data.xml
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\bin\Debug\Renci.SshNet.xml
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\bin\Debug\System.Buffers.xml
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\bin\Debug\System.Memory.xml
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\obj\Debug\EntrantSystem.csproj.AssemblyReference.cache
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\obj\Debug\EntrantSystem.csproj.ResolveComReference.cache
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\obj\Debug\EntrantSystem.AddingEntrant.resources
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\obj\Debug\EntrantSystem.AddingScores.resources
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\obj\Debug\EntrantSystem.AddingSpeciality.resources
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\obj\Debug\EntrantSystem.AddingWorker.resources
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\obj\Debug\EntrantSystem.AuthForm.resources
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\obj\Debug\EntrantSystem.ChangingEntrant.resources
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\obj\Debug\EntrantSystem.ChangingEntrantData.resources
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\obj\Debug\EntrantSystem.ChangingScores.resources
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\obj\Debug\EntrantSystem.ChangingSpeciality.resources
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\obj\Debug\EntrantSystem.ChangingWorker.resources
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\obj\Debug\EntrantSystem.ChangingWorkerData.resources
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\obj\Debug\EntrantSystem.MainForm.resources
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\obj\Debug\EntrantSystem.Properties.Resources.resources
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\obj\Debug\EntrantSystem.csproj.GenerateResource.cache
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\obj\Debug\EntrantSystem.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\obj\Debug\EntrantSystem.csproj.CopyComplete
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\obj\Debug\EntrantSystem.exe
+C:\Users\Dmitry\OneDrive\РТУ МИРЭА\КУРСОВЫЕ РАБОТЫ\КР — 7 семестр — РПОКИС\EntrantSystem\obj\Debug\EntrantSystem.pdb
