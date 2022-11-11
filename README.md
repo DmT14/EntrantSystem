@@ -7,7 +7,7 @@
 
 ## ER-диаграмма
 Ниже приведена диаграмма «сущность-связь» разработанной системы.
-<br><img src="https://github.com/DmT14/EntrantSystem/blob/main/screenshots/ER_diagram.png" alt="Главная страница сайта" width="750"/>
+<br><img src="https://github.com/DmT14/EntrantSystem/blob/main/screenshots/ER_diagram.png" alt="Главная страница сайта" width="400"/>
 
 ## Скриншоты работы приложения
 Ниже приведены скриншоты работы приложения.
@@ -22,7 +22,7 @@
 <br><img src="https://github.com/DmT14/EntrantSystem/blob/main/screenshots/entrant_account.png" alt="Главная страница сайта" width="750"/>
 
 Имеется возможность добавления всей возможной информации в соответствии с ролью и правами пользователя, например:
-<br><img src="https://github.com/DmT14/EntrantSystem/blob/main/screenshots/adding_information.png" alt="Главная страница сайта" width="750"/>
+<br><img src="https://github.com/DmT14/EntrantSystem/blob/main/screenshots/adding_information.png" alt="Главная страница сайта" width="300"/>
 
 ## Дополнительная информация
 Если Вы хотите подробнее ознакомиться с материалами проекта, можете посмотреть [этот документ](https://disk.yandex.ru/i/hC0iLH0oE7xYAA).
