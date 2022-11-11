@@ -7,7 +7,7 @@
 
 ## ER-диаграмма
 Ниже приведена диаграмма «сущность-связь» разработанной системы.
-<br><img src="https://github.com/DmT14/EntrantSystem/blob/main/screenshots/ER_diagram.png" alt="Главная страница сайта" width="500"/>
+<br><img src="https://github.com/DmT14/EntrantSystem/blob/main/screenshots/ER_diagram.png" alt="Главная страница сайта" width="550"/>
 
 ## Скриншоты работы приложения
 Ниже приведены скриншоты работы приложения.
