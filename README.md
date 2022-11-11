@@ -25,4 +25,4 @@
 <br><img src="https://github.com/DmT14/EntrantSystem/blob/main/screenshots/adding_information.png" alt="Главная страница сайта" width="300"/>
 
 ## Дополнительная информация
-Если Вы хотите подробнее ознакомиться с материалами проекта, можете посмотреть [этот документ](https://disk.yandex.ru/i/hC0iLH0oE7xYAA).
+Если Вы хотите подробнее ознакомиться с материалами проекта, можете ознакомиться с [этим документом](https://disk.yandex.ru/i/hC0iLH0oE7xYAA).
